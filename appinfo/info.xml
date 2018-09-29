@@ -5,13 +5,13 @@
     <name>AV Preview Provider</name>
     <summary>Use getID3 to create audio/video thumbnails in Nextcloud.</summary>
     <description><![CDATA[This app attempts to create a thumbnail image from the embedded cover for all audio/video files using the getID3 library.]]></description>
-    <version>0.0.1</version>
+    <version>0.0.2</version>
     <licence>FreeBSD</licence>
     <author mail="carsten_sttgt@gmx.de" >Carsten Wiedmann</author>
     <namespace>AvPreviewProvider</namespace>
     <category>files</category>
     <dependencies>
-        <nextcloud min-version="13.0.1" max-version="13"/>
+        <nextcloud min-version="13.0.1" max-version="14"/>
     </dependencies>
     <types>
 	 <filesystem/>

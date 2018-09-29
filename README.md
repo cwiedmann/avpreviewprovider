@@ -7,7 +7,7 @@ Use getID3 to create audio/video thumbnails in Nextcloud.
 This app attempts to create a thumbnail image from the embedded cover for all audio/video files using the getID3 library.
 
 ## Prerequisites
-- Nextcloud >=13.0.1 <14.0.0
+- Nextcloud >=13.0.1 <=14
 
 ## Installing
 
